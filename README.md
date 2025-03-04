@@ -95,11 +95,6 @@ Vì đây là phiên bản Beta 1.0.5e, vui lòng liên hệ cho chúng tôi khi
 - Lớp: 10 Tin-LN
 - Khoá 24-27
 - Nhóm: 
-        Thành viên:               Nickname      ID:
-	Trần Minh Hiếu            tmh9          242309
-	Nguyễn Trương Ngọc Huy    huy           242310
-	Đinh Nguyên Khoa          dnk           242313
-	Phan Khánh Lâm            phanlam       242318
 
 |  Thành viên             | Gitname | ID     |
 |-------------------------|---------|--------|
