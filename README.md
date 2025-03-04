@@ -101,6 +101,13 @@ Vì đây là phiên bản Beta 1.0.5e, vui lòng liên hệ cho chúng tôi khi
 	Đinh Nguyên Khoa          dnk           242313
 	Phan Khánh Lâm            phanlam       242318
 
+|  Thành viên             | Gitname | ID     |
+|-------------------------|---------|--------|
+|  Trần Minh Hiếu         | tmh9    | 242309 |
+|  Nguyễn Trương Ngọc Huy | huy     | 242310 | 
+|  Đinh Nguyên Khoa       | dnkarl  | 242313 | 
+|  Phan Khánh Lâm         | phanlam | 242318 |
+
 **Lưu ý**:
 Trò chơi này được phát triển với mục đích học tập và phi lợi nhuận. Mọi đóng góp hoặc cải tiến đều được hoan nghênh!
 
