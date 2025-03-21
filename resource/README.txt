@@ -162,7 +162,5 @@ Vì đây là phiên bản Beta 3.0.3, vui lòng liên hệ cho chúng mình khi
 | Đinh Nguyên Khoa        |  dnkarl     |   242313  |
 | Phan Khánh Lâm          |  phanlam    |   242318  |
 
-## Copyright © 2025 Blitzkrieg ##
-
 **Chú thích**:
 Trò chơi này được phát triển với mục đích học tập và phi lợi nhuận. Mọi đóng góp hoặc cải tiến đều được hoan nghênh!

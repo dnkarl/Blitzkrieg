@@ -163,8 +163,6 @@ Vì đây là phiên bản Beta 3.0.3, vui lòng liên hệ cho chúng mình khi
   - Copilot
   - Gemini
 
-## Copyright © 2025 Blitzkrieg ##
-
 **Chú thích**:
-Trò chơi này được phát triển với mục đích học tập (và phi lợi nhuận). Mọi đóng góp hoặc cải tiến đều được hoan nghênh!
+Trò chơi này được phát triển với mục đích học tập và phi lợi nhuận. Mọi đóng góp hoặc cải tiến đều được hoan nghênh!
 

@@ -1256,7 +1256,6 @@ while True:
             screen.blit(viet_font.render(name, True, WHITE), (WIDTH // 2 - viet_font.size(name)[0] // 2, HEIGHT // 2 - 200 + i * 50))
         screen.blit(viet_font.render("_Version: Beta 3.0.3_", True, WHITE), (WIDTH // 2 - viet_font.size("_Version: Beta 3.0.3_")[0] // 2, HEIGHT // 2 + 125))
         update_history_button.draw(screen)
-        screen.blit(viet_font.render("Copyright © 2025 Blitzkrieg", True, WHITE), (WIDTH // 2 - viet_font.size("Copyright © 2025 Blitzkrieg")[0] // 2, HEIGHT // 2 + 165))
         screen.blit(viet_font.render("Contact us if you see any bugs", True, WHITE), (WIDTH // 2 - viet_font.size("Contact us if you see any bugs")[0] // 2, HEIGHT // 2 + 235))
         readme_button.draw(screen)
         update_history_button.draw(screen)
